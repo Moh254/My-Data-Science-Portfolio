@@ -23,5 +23,7 @@ Overall, this project represents a significant step forward in leveraging data-d
 
 ### 2.AFRICA BANKING CRISIS
 The banking sector is a critical component of economic stability, particularly in developing regions such as Africa. Predicting banking crises can help policymakers and financial institutions implement preemptive measures to mitigate potential economic downturns.
+
 This project focuses on the banking, debt, financial, inflation, and systematic crises that occurred, from 1860-2014 some African countries. This helps us understand the dynamics of financial stability within African context.
+
 The purpose of the project is predicting the economic crisis for african countries using logistic regression, a machine learning technique.
