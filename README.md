@@ -1,5 +1,5 @@
 # Portfolio
-### PREDICTIVE CROP YIELD OPTIMIZATION
+### 1.PREDICTIVE CROP YIELD OPTIMIZATION
 
 The "Predictive Crop Yield Optimization Using Python" project aims to revolutionize agricultural productivity by providing farmers with actionable insights derived from predictive analytics. Leveraging tools such as Pandas, Scikit-learn, and Flask, we have developed a robust predictive model that forecasts crop yields based on historical and environmental data. 
 
@@ -19,6 +19,8 @@ Throughout the project, we employed various tools and techniques:
 Overall, this project represents a significant step forward in leveraging data-driven approaches to optimize crop production and contribute to the advancement of sustainable farming practices.
 
 
-### AFRICA BANKING CRISIS
+
+
+### 2.AFRICA BANKING CRISIS
 This project focuses on the banking, debt, financial, inflation, and systematic crises that occurred, from 1860-2014 some African countries. This helps us understand the dynamics of financial stability within African context.
 The purpose of the project is predicting the economic crisis for african countries using logistic regression, a machine learning technique.
