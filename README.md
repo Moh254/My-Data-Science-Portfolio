@@ -17,3 +17,8 @@ Throughout the project, we employed various tools and techniques:
 - *Deployment:* Finally, we deployed the predictive model as a Flask web application, providing real-time yield predictions for end-users.
 
 Overall, this project represents a significant step forward in leveraging data-driven approaches to optimize crop production and contribute to the advancement of sustainable farming practices.
+
+
+### AFRICA BANKING CRISIS
+This project focuses on the banking, debt, financial, inflation, and systematic crises that occurred, from 1860-2014 some African countries. This helps us understand the dynamics of financial stability within African context.
+The purpose of the project is predicting the economic crisis for african countries using logistic regression, a machine learning technique.
